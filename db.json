@@ -1,0 +1,46 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Curso de Angular",
+      "validade": "2021-12-31",
+      "precoProduto": 550.54
+    },
+    {
+      "nome": "Curso de Ionic",
+      "validade": "2027-10-01",
+      "precoProduto": 255,
+      "id": 2
+    },
+    {
+      "nome": "dsad",
+      "validade": "2023-06-01",
+      "precoProduto": 23,
+      "id": 3
+    },
+    {
+      "nome": "abc",
+      "validade": "2025-03-13",
+      "precoProduto": 12,
+      "id": 4
+    },
+    {
+      "nome": "Banana",
+      "validade": "4444-08-23",
+      "precoProduto": 10000,
+      "id": 5
+    }
+  ],
+  "receitas": [
+    {
+      "nome": "Falafel",
+      "precoReceita": 5,
+      "id": 1
+    },
+    {
+      "nome": "Rafael",
+      "precoReceita": 10,
+      "id": 2
+    }
+  ]
+}
